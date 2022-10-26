@@ -1,0 +1,6 @@
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\bin\Debug\RedPoc.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\bin\Debug\RedPoc.Entity.pdb
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\obj\Debug\RedPoc.Entity.csproj.AssemblyReference.cache
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\obj\Debug\RedPoc.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\obj\Debug\RedPoc.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Entity\obj\Debug\RedPoc.Entity.pdb

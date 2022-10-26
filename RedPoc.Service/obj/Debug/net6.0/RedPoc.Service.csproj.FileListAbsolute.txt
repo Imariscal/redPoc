@@ -1,0 +1,17 @@
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Service.deps.json
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Service.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Service.pdb
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Repository.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Entity.pdb
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\bin\Debug\net6.0\RedPoc.Repository.pdb
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.csproj.AssemblyReference.cache
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.AssemblyInfoInputs.cache
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.AssemblyInfo.cs
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.csproj.CopyComplete
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\refint\RedPoc.Service.dll
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\RedPoc.Service.pdb
+C:\Users\ignacio.mariscal\source\repos\RedPoc\RedPoc.Service\obj\Debug\net6.0\ref\RedPoc.Service.dll

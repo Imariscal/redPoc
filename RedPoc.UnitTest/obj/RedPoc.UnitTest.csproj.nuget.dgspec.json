@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.UnitTest\\RedPoc.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\RedPoc.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\RedPoc.Api.csproj",
+        "projectName": "RedPoc.Api",
+        "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\RedPoc.Api.csproj",
+        "packagesPath": "C:\\Users\\ignacio.mariscal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ignacio.mariscal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj",
+        "projectName": "RedPoc.Entity",
+        "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj",
+        "projectName": "RedPoc.Repository",
+        "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj",
+        "packagesPath": "C:\\Users\\ignacio.mariscal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ignacio.mariscal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj",
+        "projectName": "RedPoc.Service",
+        "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj",
+        "packagesPath": "C:\\Users\\ignacio.mariscal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ignacio.mariscal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.UnitTest\\RedPoc.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.UnitTest\\RedPoc.UnitTest.csproj",
+        "projectName": "RedPoc.UnitTest",
+        "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.UnitTest\\RedPoc.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\ignacio.mariscal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ignacio.mariscal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\RedPoc.Api.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Api\\RedPoc.Api.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Entity\\RedPoc.Entity.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Repository\\RedPoc.Repository.csproj"
+              },
+              "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj": {
+                "projectPath": "C:\\Users\\ignacio.mariscal\\source\\repos\\RedPoc\\RedPoc.Service\\RedPoc.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
